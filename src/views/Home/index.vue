@@ -1,8 +1,8 @@
 <template>
     <div>
-        我是Home页
+        
     </div>
-  </template>
+</template>
   
   <script>
   export default {
